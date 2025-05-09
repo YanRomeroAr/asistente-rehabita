@@ -48,8 +48,8 @@ st.markdown("""
 st.image("https://piasar-capacita.creation.camp/wp-content/uploads/sites/55/2021/12/Logo-1-MVCS.png", width=200)
 
 # Título y subtítulo
-st.title("BotReHabita - Asistente inteligente del Manual para la elaboración de Planes de Acondicionamiento Territorial (PAT)")
-st.markdown("Haz tus consultas sobre el manual para la elaboración de Planes de Acondicionamiento Territorial (PAT) y obtén respuestas claras y rápidas.")
+st.title("ReHabita - Asistente IA del PAT)")
+st.markdown("Haz tus consultas sobre el manual para la elaboración de Planes de Acondicionamiento Territorial -PAT (RD-011-2015-VIVIENDA) y obtén respuestas claras y rápidas.")
 
 # ---------------------------
 # ESTADO INICIAL
